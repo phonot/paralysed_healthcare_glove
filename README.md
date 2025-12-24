@@ -94,8 +94,7 @@ Full source code is available in this repository:
 - Battery-powered version with low-power mode
 - Machine-learning-based gesture/fall detection
 - 
-## Prototype
-![Project Prototype](https://raw.githubusercontent.com/phonot/paralysed_healthcare_glove/main/prototype.png)
+
 
 Live display showing HR, RR, PPG waveform with detected peaks, and quality metrics.
 ## License
